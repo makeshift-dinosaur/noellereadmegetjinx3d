@@ -16,7 +16,7 @@
       <th>
                    <br>  
         
-![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=losingmarbles&theme=legacy&count=3&footer=stats&bg_color=202228&text_color=7fb9a9&artist_color=508691&meta_color=446d77&loved_color=8ec2b3&logo_color=508691)
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=losingmarbles&theme=legacy&count=3&width=380&footer=stats&bg_color=202228&text_color=7fb9a9&artist_color=508691&meta_color=446d77&loved_color=8ec2b3&logo_color=508691)
 
 <br>
 
