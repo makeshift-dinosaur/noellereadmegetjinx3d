@@ -6,7 +6,7 @@
 
 <picture>
   <source media="prefers-color-scheme: dark" srcset="dark-image.png">
-<img align="right" width="408" height="11" alt="tumblr_562eb6eb9278f44f05d38113042bb994_798fa567_1280" src="https://github.com/user-attachments/assets/1dcb57ac-4a24-4df9-b93d-dac741be4248" />
+<img align="right" width="378" height="11" alt="tumblr_562eb6eb9278f44f05d38113042bb994_798fa567_1280" src="https://github.com/user-attachments/assets/1dcb57ac-4a24-4df9-b93d-dac741be4248" />
 </picture>
 
 <br>
@@ -16,7 +16,7 @@
       <th>
                    <br>  
         
-![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=losingmarbles&theme=legacy&count=3&width=380&footer=stats&bg_color=202228&text_color=7fb9a9&artist_color=508691&meta_color=446d77&loved_color=8ec2b3&logo_color=508691)
+![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=losingmarbles&theme=legacy&count=3&width=350&footer=stats&bg_color=202228&text_color=7fb9a9&artist_color=508691&meta_color=446d77&loved_color=8ec2b3&logo_color=508691)
 
 <br>
 
@@ -36,17 +36,22 @@
 
   <br>
 
-<img width="94" height="28" alt="tumblr_67907a245d9a26e8c4c44c6859a1c874_2f750c55_75" src="https://github.com/user-attachments/assets/2a16db3b-f5b2-4cda-839f-9c3e3a2a20db" />
+<img width="94" height="28" alt="tumblr_681c3b8a593a389f692355084a63b064_a96d2b2d_75" src="https://github.com/user-attachments/assets/574cdbba-5361-409e-af48-1119786a94ee" />
 <img width="94" height="28" alt="tumblr_b50cc657219f6e257bb7479120c48177_ae5aa6be_75" src="https://github.com/user-attachments/assets/21551c02-378d-4111-9fac-02e49c8c7b0d" />
+<img width="94" height="28" alt="tumblr_67907a245d9a26e8c4c44c6859a1c874_2f750c55_75" src="https://github.com/user-attachments/assets/2a16db3b-f5b2-4cda-839f-9c3e3a2a20db" />
+
 
 
     
   </th>
   </table>
 
+  <img src="https://komarev.com/ghpvc/?username=makeshift-dinosaur&color=7cc7b7&style=for-the-badge&label=goners:" title="'Nothing changed. Because a Noelle is just a Noelle.'">
+
+
 <picture>
   <source media="prefers-color-scheme: dark" srcset="dark-image.png">
-  <img width="515" height="515" alt="NoelleLighterDarkWorld by GetJinx3d" src="https://github.com/user-attachments/assets/596edb92-d1c7-479c-8150-f31c030e977e" />
+  <img align="left" width="440" height="440" alt="NoelleLighterDarkWorld by GetJinx3d" src="https://github.com/user-attachments/assets/596edb92-d1c7-479c-8150-f31c030e977e" />
 </picture>
 
 
