@@ -6,7 +6,7 @@
 
 <picture>
   <source media="prefers-color-scheme: dark" srcset="dark-image.png">
-<img align="right" width="428" height="11" alt="tumblr_562eb6eb9278f44f05d38113042bb994_798fa567_1280" src="https://github.com/user-attachments/assets/1dcb57ac-4a24-4df9-b93d-dac741be4248" />
+<img align="right" width="408" height="11" alt="tumblr_562eb6eb9278f44f05d38113042bb994_798fa567_1280" src="https://github.com/user-attachments/assets/1dcb57ac-4a24-4df9-b93d-dac741be4248" />
 </picture>
 
 <br>
