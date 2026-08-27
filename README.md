@@ -65,3 +65,9 @@
 
 <img width="734" height="152" alt="Banner colorized by GetJinx3d" src="https://github.com/user-attachments/assets/277f1735-850d-4d16-8b20-2b7246c43c78" />
 
+<picture>
+  <source media="prefers-color-scheme: dark" srcset="dark-image.png">
+<img align="right" width="440" height="440" alt="NoelleDarkerDarkWorld by GetJinx3d" src="https://github.com/user-attachments/assets/ddee76e7-3fea-4c1f-9b61-4d6a99df3de6" />
+</picture>
+
+
