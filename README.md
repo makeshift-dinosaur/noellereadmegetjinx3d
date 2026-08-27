@@ -57,5 +57,11 @@
 
 <br><br>
 
+<picture>
+  <source media="prefers-color-scheme: dark" srcset="dark-image.png">
+<img alt="banner made by strangergraphics tumblr" src="https://github.com/user-attachments/assets/5432766c-781c-4985-9588-c53ce60204a5" />
+</picture>
+
+
 <img width="734" height="152" alt="Banner colorized by GetJinx3d" src="https://github.com/user-attachments/assets/277f1735-850d-4d16-8b20-2b7246c43c78" />
 
