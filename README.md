@@ -67,4 +67,38 @@
 <img align="right" width="440" height="440" alt="NoelleDarkerDarkWorld by GetJinx3d" src="https://github.com/user-attachments/assets/ddee76e7-3fea-4c1f-9b61-4d6a99df3de6" />
 </picture>
 
+<img width="120" height="15" alt="tumblr_4a0000452f87090c30b0c36cd72d9d6e_2ddc7573_250" src="https://github.com/user-attachments/assets/46223630-ea19-49e9-862a-032562f85ae5" />
+<img width="120" height="15" alt="tumblr_68f36e1dfb9764f2d380c72cdafdf378_4ea84e72_250" src="https://github.com/user-attachments/assets/e14ef5fe-897b-4eeb-9dae-1f3714693fb2" />
+<picture>
+  <source media="prefers-color-scheme: dark" srcset="dark-image.png">
+<img width="120" height="15" alt="tumblr_e53076104c8d22ed3d272d62cc8fccfa_980380bb_250" src="https://github.com/user-attachments/assets/9a6f2893-3515-48a0-a897-fd3464c3e2b8" />
+</picture>
+
+<br><br>
+
+<img width="120" height="67" alt="tumblr_ee10abeb6f90e1e5f31611cb76de415e_35e7cbba_100" src="https://github.com/user-attachments/assets/2c1fbb3a-a1af-4dbf-bd78-3f656a15135a" />
+<img width="120" height="67" alt="suselle-chapter-4" src="https://github.com/user-attachments/assets/921685d0-8502-42d2-bc2b-caad072d1974" />
+<img width="120" height="67" alt="tumblr_61a25f1c67fae58e4fd40bf221dc880d_e5f7fc08_100" src="https://github.com/user-attachments/assets/59cb0033-9250-40f7-a41a-23cf16a4b9cf" />
+
+<br><br>
+
+<img width="120" height="67" alt="tumblr_4c7f3fab26a287b66abaaf8c3021c3e7_8cf05035_100" src="https://github.com/user-attachments/assets/3addd125-b949-4668-b103-7b062d5a186e" />
+<img width="120" height="67" alt="IMPRETTYSUREMALWINAMADETHISSPRITE" src="https://github.com/user-attachments/assets/edb23a23-d36a-44f0-b645-6d83325c162b" />
+<img width="120" height="67" alt="tumblr_486f1edbaaaaecce1cf58928f3e815cf_c7da4af7_100" src="https://github.com/user-attachments/assets/9aeb2613-a00c-4926-87ca-9bd6ab1bfd06" />
+
+<br><br>
+
+<img width="120" height="15" alt="tumblr_d01bcd2d9eb3238ef005ddffeb7d09f0_5d6033c7_250 (1)" src="https://github.com/user-attachments/assets/9b7ddff4-048c-4af3-bd68-56341d438a0b" />
+<img width="120" height="15" alt="tumblr_11592fbd1f6fca3d83913c087c743155_24080357_250 (1)" src="https://github.com/user-attachments/assets/3cd2b2b3-943d-4d0d-ab1a-667954f4d948" />
+<img width="120" height="15" alt="tumblr_363a94b605b0d38ca0dfbb75b71a7cf2_50b2dc38_250 (1)" src="https://github.com/user-attachments/assets/397728be-0e73-4a04-bf79-fe855407b9c7" />
+
+
+
+
+
+
+
+
+
+
 <img width="734" height="152" alt="Banner colorized by GetJinx3d" src="https://github.com/user-attachments/assets/277f1735-850d-4d16-8b20-2b7246c43c78" />
